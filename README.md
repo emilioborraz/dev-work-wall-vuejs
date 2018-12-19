@@ -29,6 +29,6 @@ yarn run test
 ```
 
 ### References
-See [Vue Cli 3](https://cli.vuejs.org/guide/).
-See [Configuration Reference](https://cli.vuejs.org/config/).
-See [Yarn](https://yarnpkg.com/en/).
+- See [Vue Cli 3](https://cli.vuejs.org/guide/).
+- See [Configuration Reference](https://cli.vuejs.org/config/).
+- See [Yarn](https://yarnpkg.com/en/).
