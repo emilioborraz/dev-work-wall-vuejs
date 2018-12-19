@@ -39,9 +39,9 @@
     },
     data: function() {
       return {
-        version: 1.0,
+        version: process.env.VUE_APP_VERSION,
         wallElementsLoaded: false,
-        dataFeedUrl: 'http://borrazb.test',
+        dataFeedUrl: process.env.VUE_APP_DATA_DOMAIN,
         wallElements: []
       };
     },
