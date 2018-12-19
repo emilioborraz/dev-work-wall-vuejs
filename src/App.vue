@@ -133,6 +133,4 @@
     margin-bottom: .25rem;
   }
 </style>
-<style lang="scss">
-  @import '../node_modules/bootstrap/scss/bootstrap.scss';
-</style>
+
