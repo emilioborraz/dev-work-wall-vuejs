@@ -1,4 +1,5 @@
 # dev-work-wall-vuejs
+SPA that displays a wall of elements (posts/tweets/etc...), created using VueJS (Vue cli).
 
 ## Project setup
 ```
