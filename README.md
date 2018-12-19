@@ -10,25 +10,25 @@ yarn install
 yarn run serve
 ```
 
-### Compiles and minifies for production
+### Compiles
 ```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
+yarn run build #(& minifies for production)
+yarn build --mode development
 ```
 
 ### Lints and fixes files
 ```
 yarn run lint
+npm run-script lint
+yarn lint
 ```
 
-### Customize configuration
+### Run your tests (@todo)
+```
+yarn run test
+```
+
+### References
+See [Vue Cli 3](https://cli.vuejs.org/guide/).
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-yarn lint
-npm run-script lint
-yarn build --mode development
+See [Yarn](https://yarnpkg.com/en/).
